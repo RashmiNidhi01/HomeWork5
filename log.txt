@@ -1,2 +1,0 @@
-The class average is 69 for 1 studentsBad score for Bob, ignored.
-The class average is 79 for 2 studentsThe class average is 79 for 3 studentsBad score for Eric, ignored.
